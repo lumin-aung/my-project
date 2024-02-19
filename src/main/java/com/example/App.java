@@ -17,7 +17,7 @@ public class App {
     @PostConstruct
     public void init()
     {
-        Logger log = LoggerFactory.getLogger(App.class);
+        Logger log = LoggerFactory.getLogger(App.class);fffff
         log.info("Java app started");
     }
 
